@@ -1,0 +1,19 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repo, a dir with name .git gets created, where all the metadata regarding your dir is stored.
+
+This is done, to start a repo, basically, version control. If you need to have some files on git, this is how you begin.
+
+*******************************************
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area differs from the working directory, that it is the next level. It is one level short of being committed. Once a git commit is given, all files present in staging area, will be committed, but not from working directory.
+
+Gives time to think for a sec, if we are entirely sure to commit or not. No matter how many of them say they are correct, you still need to check once before you commit, especially if it's a life and death situation development, and especially in a product development, where a small mistake could bring down servers, and could easily cost you your job.
+
+
+
+*******************************************
+
+*******************************************

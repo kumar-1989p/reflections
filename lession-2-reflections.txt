@@ -12,8 +12,11 @@ The staging area differs from the working directory, that it is the next level. 
 
 Gives time to think for a sec, if we are entirely sure to commit or not. No matter how many of them say they are correct, you still need to check once before you commit, especially if it's a life and death situation development, and especially in a product development, where a small mistake could bring down servers, and could easily cost you your job.
 
-
-
 *******************************************
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+Can check the diff between staging area, working directory, and repository using different forms of git diff.
+
+*******************************************
 *******************************************

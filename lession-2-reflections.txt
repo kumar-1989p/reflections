@@ -1,6 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-When you initialize a repo, a dir with name .git gets created, where all the metadata regarding your dir is stored.
+When you initialize a repo, a dir with name .git gets created, where all the meta data regarding your dir is stored.
 
 This is done, to start a repo, basically, version control. If you need to have some files on git, this is how you begin.
 
@@ -19,4 +19,11 @@ How can you use the staging area to make sure you have one commit per logical ch
 Can check the diff between staging area, working directory, and repository using different forms of git diff.
 
 *******************************************
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+While making CR changes after the golden builds! And hey, while making languages work, so that helps as well. You can easily merge later I believe. 
+
+*******************************************
+
 *******************************************

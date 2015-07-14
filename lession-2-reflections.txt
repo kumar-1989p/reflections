@@ -26,4 +26,19 @@ While making CR changes after the golden builds! And hey, while making languages
 
 *******************************************
 
+How do the diagrams help you visualize the branch structure?
+
+Well the most obvious thing was it made me understand it as alternate timelines, and since I knew already how alternate timelines work, this one came easy.
+
+For example, in the Flash's alternate timeline of the Flashpoint paradox, he goes back and saves his mother, and then, changes everything. Then he goes back again, and stops the previous self from saving mom, he comes back to his regular timeline
+
+*******************************************
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+When 2 branches are merged together, 2 devs working without each others knowledge, can add 2 diff features, without each other worrying about the others' work working or failing. When 2 branches are merged together, the files get merged from the differen branches. If same files, they get merged, if different files, they get added or deleted as required.
+
+
+Representing it in this way I think might be called as a vector representation, as it is directional, and helps in understanding the parent commits.
+
 *******************************************

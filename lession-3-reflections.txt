@@ -2,3 +2,12 @@ When would you want to use a remote reporsitory rather than keeping all your wor
 
 Especially while working in a team, or a group project. 
 Or while working on something from 2 different locations, like work and home. Use the desktop or laptop at home, and use the work desktop at work. Helps both ways.
+
+*******************************************
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+If it happened automatically, it might actually end up pulling updates while a development was in progress, or a project was in progress.
+
+
+*******************************************

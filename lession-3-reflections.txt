@@ -11,3 +11,19 @@ If it happened automatically, it might actually end up pulling updates while a d
 
 
 *******************************************
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks is creating your own remote. For example, there is a mainline branch, and then you can't directly commit to it. So you fork the mainline thing, and and do whatever changes you want, on it. And then, once you think it's worth it, you merger your fork with the mainline thing using a pull request. If you have only 1 fork, you tend to call it origin
+
+
+Clone is a clone of the online thing on your local. So if you create any repo on (prefereably) github, you need a copy of it on your local as well. So you clone it.
+
+
+Branch is local thing. How fork is online, similarly, branch is a local thing. Preferably called as master (the first branch that you create)
+
+********************************************
+
+
+
+********************************************

@@ -24,6 +24,14 @@ Branch is local thing. How fork is online, similarly, branch is a local thing. P
 
 ********************************************
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can remember how was your last task, or rather what was your last task.
+
+Also make sure, you can work without an internet connection.
 
 
+
+
+********************************************
 ********************************************

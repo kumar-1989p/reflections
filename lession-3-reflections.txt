@@ -43,4 +43,11 @@ Git is much easier, coz I would have a central repo from where I can control my 
 
 ********************************************
 
+When would you want to make changes in a seperate branch rather than directly inside master? What benefits does each approach have?
+
+Different branch, well, for different CRs, different levels, and other things. Small edits to files, and things that don't need major changes.
+
+
+********************************************
+
 ********************************************

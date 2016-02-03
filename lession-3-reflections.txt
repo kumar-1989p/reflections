@@ -34,4 +34,13 @@ Also make sure, you can work without an internet connection.
 
 
 ********************************************
+
+How would you collaborate without using Git or Github? What would be easier, and what would be harder?
+
+Probably use the number markings courtesy form Iron Man mark armours like Mark I, Mark II, Mark III, and so on, like how I did on my resume, which now has gone to the dogs literally, coz I didn't bother updating properly.
+
+Git is much easier, coz I would have a central repo from where I can control my resume from wherever I want to. Even from Sunburn if it comes to that!
+
+********************************************
+
 ********************************************
